@@ -1,0 +1,144 @@
+
+[
+  {
+    "name": "Dil To Pagal Hai" ,
+    "img": "assets/images/diltopagalhai2.jpg",
+    "year": 1997,
+    "director": "Yash Chopra",
+    "duration" : "2h 59min",
+    "description" : "Comedy, Drama, Musical ",
+    "release date" : "30 October 1997",
+    "country" : "India",
+    "story" : "A grand musical about three passionate and dreamy characters: Rahul, Pooja and Nisha. Will their dreams come true? Will they find their true love?",
+    "actors": [
+      {
+        "name": "Madhuri Dixit",
+        "last name": "Dixit",
+        "first movie": "Tezaab",
+          "description" : "Madhuri Dixit is one of the most acclaimed actors and Kathak dancers Bollywood have ever witnessed. ",
+          "skills" : "Actress | Music Department | Soundtrack",
+          "birth_details" : " May 15, 1967 in Bombay, Maharashtra, India",
+          "known_for" : "Devdas, Hum apke hai kaun, Dil to pagal hai",
+        "imgUrl": "assets/images/Madhuri_Dixit.jpg"
+      },
+      {
+        "name": "Shahrukh Khan",
+        "last name": "Khan",
+        "first movie": "Baazigar" ,
+        "description" : "Shahrukh Khan also known by the initialism SRK, is an Indian actor, film producer, and television personality. Referred to in the media as the \"Badshah of Bollywood\", \"King of Bollywood\" and \"King Khan\", he has appeared in more than 80 Bollywood films, and earned numerous accolades, including 14 Filmfare Awards.  ",
+        "skills" : "Actor | Producer | Soundtrack",
+        "birth_details" : "November 2, 1965 in New Delhi, India",
+        "known_for" : "DDLJ, Don, Devdas, Chuk de India, Dil to pagal hai, Chennai Express",
+
+        "imgUrl": "assets/images/ShahrukhKhan.jpg"
+      },
+
+      {
+        "name": "Karishma Kapoor",
+        "last name": "kapoor",
+        "first movie": "prem kaidi",
+        "description" : "Born into Bombay filmdom's legendary Kapoor clan, Karisma began appearing on the silver screen during 1991 to date, with a total of over 60 movies to her credit. ",
+        "skills" : "Actress | Music Department",
+        "birth_details" : "June 25, 1974 in Bombay, Maharashtra, India",
+        "known_for" : "Anari, Raja Hindustani, Andaz Apna Apna, Coolie no.1",
+
+        "imgUrl": "assets/images/KarishmaKapoor.jpg"
+      }
+    ]
+  },
+
+  {
+    "name": "Kabhi Khushi Kabhi Gam" ,
+    "img": "assets/images/k3g.jpeg",
+    "year": 2001,
+    "director": "Karan Johar",
+    "duration" : "2h 59min",
+    "description" : "Comedy, Drama, Musical ",
+    "release date" : "30 October 1997",
+    "country" : "India",
+    "story" : "After marrying a poor woman, rich Rahul is disowned by his father and moves to London to build a new life. Years later, his now grown up little brother Rohan embarks on a mission to bring Rahul back home and reunite the family again.",
+  "actors": [
+    {
+      "name": "Shahrukh Khan",
+      "last name": "Khan",
+      "first movie": "Baazigar" ,
+      "description" : "Shahrukh Khan also known by the initialism SRK, is an Indian actor, film producer, and television personality. Referred to in the media as the \"Badshah of Bollywood\", \"King of Bollywood\" and \"King Khan\", he has appeared in more than 80 Bollywood films, and earned numerous accolades, including 14 Filmfare Awards.  ",
+      "skills" : "Actor | Producer | Soundtrack",
+      "birth_details" : "November 2, 1965 in New Delhi, India",
+      "known_for" : "DDLJ, Don, Devdas, Chuk de India, Dil to pagal hai, Chennai Express",
+
+      "imgUrl": "assets/images/ShahrukhKhan.jpg"
+    },
+
+    {
+    "name": "Hrithik Roshan",
+    "last name": "roshan",
+    "first movie": "Kaho na pyar hai",
+    "description" : "Hrithik Roshan is an Indian actor, well known globally for his versatile roles, unmatchable dancing skills and attractive looks. ",
+    "skills" : "Actor | Music Department | Soundtrack",
+    "birth_details" : " January 10, 1974 in Bombay, Maharashtra, India",
+    "known_for" : "Super 30, Zindagi Na Milegi Dobara, Lakshya, Jodha Akbar",
+    "imgUrl": "assets/images/HrithikRoshan.jpg" },
+  {
+    "name": "Kajol",
+    "last name": "Devgan",
+    "first movie": "Baazigar",
+    "description" : "Kajol, an Indian actress, well known for movies like DDLJ, Baazigar. Daughter of Tanuja and Shomu Mukherjee and niece of Nutan.",
+    "skills" : "Actress | Soundtrack",
+    "birth_details" : "August 5, 1974 in Bombay, Maharashtra, India",
+    "known_for" : "Kuchh Kuchh Hota hai, My Name is Khan, Fanaa, DDLJ",
+
+    "imgUrl": "assets/images/Kajol.jpg"
+  },
+    {
+      "name": "Kareen Kapoor",
+      "last name": "Kapoor",
+      "first movie": "Refugee",
+      "description" : "Kareen, an Indian actress, born into Bombay filmdom's legendary Kapoor clan, She is one of the most sought-after actresses in Bollywood, considered bankable, with an enviable A-listing and as of June 2007 is to appear in 'Tashan', 'Lajjo', 'Kismat Talkies' amongst others. ",
+      "skills" : "Actress | Soundtrack | Music Department",
+      "birth_details" : " September 21, 1980 in Bombay, Maharashtra, India",
+      "known_for" : "Jab We met, Omkara, 3 Idiots, Chameli",
+
+      "imgUrl": "assets/images/KareenaKapoor.jpg"
+    }
+]
+
+  },
+
+  {
+    "name": "DDLJ" ,
+    "img": "assets/images/ddlj.jpg",
+    "year": 1995,
+    "director": "Aditya Chopra",
+    "duration" : "2h 59min",
+    "description" : "Comedy, Drama, Musical ",
+    "release date" : "30 October 1997",
+    "country" : "India",
+    "story" : "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+    "actors": [
+      {
+        "name": "Shahrukh Khan",
+        "last name": "Khan",
+        "first movie": "Baazigar" ,
+        "description" : "Shahrukh Khan also known by the initialism SRK, is an Indian actor, film producer, and television personality. Referred to in the media as the \"Badshah of Bollywood\", \"King of Bollywood\" and \"King Khan\", he has appeared in more than 80 Bollywood films, and earned numerous accolades, including 14 Filmfare Awards.  ",
+        "skills" : "Actor | Producer | Soundtrack",
+        "birth_details" : "November 2, 1965 in New Delhi, India",
+        "known_for" : "DDLJ, Don, Devdas, Chuk de India, Dil to pagal hai, Chennai Express",
+
+        "imgUrl": "assets/images/ShahrukhKhan.jpg"
+      },
+      {
+        "name": "Kajol",
+        "last name": "Devgan",
+        "first movie": "Baazigar",
+        "description" : "Kajol, an Indian actress, well known for movies like DDLJ, Baazigar. Daughter of Tanuja and Shomu Mukherjee and niece of Nutan.",
+        "skills" : "Actress | Soundtrack",
+        "birth_details" : "August 5, 1974 in Bombay, Maharashtra, India",
+        "known_for" : "Kuchh Kuchh Hota hai, My Name is Khan, Fanaa, DDLJ",
+
+        "imgUrl": "assets/images/Kajol.jpg"
+      }
+    ]
+  }
+]
+
